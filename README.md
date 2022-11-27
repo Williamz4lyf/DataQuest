@@ -1,2 +1,2 @@
 # DataQuest
-Projects from Data Quest
+Lessons & Projects from Data Quest
